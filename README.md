@@ -2,7 +2,7 @@
 
 Meryの青空文庫用の構文ファイル、スニペットツール用のファイル。
 		
-[https://kyukyunyorituryo.github.io/aozoratool/aozoraEditor.zip](https://kyukyunyorituryo.github.io/aozoratool/aozoraEditor.zip)
+[aozoraEditor.zip](https://github.com/kyukyunyorituryo/aozoratool/raw/main/aozoraEditor.zip)
 ## 青空文庫用整形補助
 
 青空文庫のタグつけを支援するマクロです．
